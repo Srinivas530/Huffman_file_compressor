@@ -1,1 +1,1 @@
-g++ huff8.cpp -o huffman.exe
+g++ -O2 -o huffman_exe huff8.cpp
